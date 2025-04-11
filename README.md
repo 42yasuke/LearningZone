@@ -14,5 +14,3 @@ Montrer ma progression continue dans les domaines suivants :
 - Mobile
 - Jeux vidéo
 - IA & Big Data
-
-📅 Mise à jour : Avril 2025
