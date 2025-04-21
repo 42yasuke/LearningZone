@@ -6,7 +6,7 @@ Ce dépôt contient des **sous-modules Git** pointant vers mes projets d'entraî
 
 | Projet | Techno | Description |
 |--------|--------|-------------|
-| [django-first-App](./django-blog-api) | Django (Python) | 1re application Django |
+| [Djanfo-F1](https://github.com/42yasuke/Django-F1) | Django (Python) | 1re application Django |
 
 ## 📌 Objectif
 Montrer ma progression continue dans les domaines suivants :
