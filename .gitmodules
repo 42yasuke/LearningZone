@@ -1,0 +1,3 @@
+[submodule "web/Django-F1"]
+	path = web/Django-F1
+	url = https://github.com/42yasuke/Django-F1.git
