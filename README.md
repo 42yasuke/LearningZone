@@ -14,3 +14,11 @@ Montrer ma progression continue dans les domaines suivants :
 - Mobile
 - Jeux vidéo
 - IA & Big Data
+
+## 🚀 Cloner ce Dépôt avec les Sous-modules
+
+Pour cloner ce dépôt avec tous ses sous-modules, utilisez la commande suivante :
+
+```bash
+git clone --recurse-submodules https://github.com/42yasuke/LearningZone
+```
