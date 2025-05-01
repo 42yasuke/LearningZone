@@ -1,3 +1,6 @@
 [submodule "web/Django-F1"]
 	path = web/Django-F1
 	url = https://github.com/42yasuke/Django-F1.git
+[submodule "web/Django_rest_f1"]
+	path = web/Django_rest_f1
+	url = https://github.com/42yasuke/Django_rest_f1
