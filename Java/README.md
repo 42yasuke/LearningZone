@@ -1,7 +1,6 @@
 # 📂 Dossier `Java/`
 
-Ce dossier contient **des projets Java ajoutés en tant que sous-modules Git**.  
-Chaque sous-module pointe vers son dépôt source d’origine, ce qui permet de les mettre à jour ou de les développer **sans modifier** les autres projets.
+Ce dossier contient la liste **de mes projets Java ajoutés en tant que sous-modules Git**.  
 
 ## 🔧 Projets en cours
 
