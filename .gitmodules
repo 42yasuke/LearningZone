@@ -1,3 +1,6 @@
 [submodule "Java/Pendu_java"]
 	path = Java/Pendu_java
 	url = https://github.com/42yasuke/Pendu_java
+[submodule "React/Morpion_React"]
+	path = React/Morpion_React
+	url = https://github.com/42yasuke/Morpion_React
