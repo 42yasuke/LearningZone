@@ -7,3 +7,6 @@
 [submodule "Java/Morpion_Java_Swing"]
 	path = Java/Morpion_Java_Swing
 	url = https://github.com/42yasuke/Morpion_Java_Swing
+[submodule "Java/myFirstJavaFXApp"]
+	path = Java/myFirstJavaFXApp
+	url = https://github.com/42yasuke/myFirstJavaFXApp
